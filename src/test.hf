@@ -1,0 +1,7 @@
+(echo "Hello world!")
+(list_dir)
+(echo "**********sample.txt**********")
+(show "sample.txt")
+(mov list_dir "current_directory_list.txt")
+(echo "delete sample.txt")
+(del "sample.txt")
